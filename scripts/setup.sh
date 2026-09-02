@@ -17,7 +17,7 @@ apt install -qqy --no-install-recommends \
     dnsmasq \
     hostapd \
     iptables \
-    libconfig9 \
+    libconfig9t64 \
     locales \
     modemmanager \
     netcat-traditional \
